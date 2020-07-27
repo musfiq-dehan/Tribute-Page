@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+div#main {
+  background-color: lightgray;
+  font-family: cursive;
+}
+
+div#heading,
+div#img-div {
+  text-align: center;
+  padding: 20px;
+}
+
+img#image {
+  height: auto;
+  width: 70%;
+}
+
+div#heading {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  background-color: gray;
+}
+
+div#tribute-info {
+  width: 35%;
+  margin: auto;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+p#endline {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin: 0;
+}
+
+p#credit {
+  font-family: cursive;
+  text-align: center;
+  padding: 25px;
+  background-color: gray;
+  margin: 0;
+}
